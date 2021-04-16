@@ -3,7 +3,7 @@
 
 ## Resolución
 
-### Diagrama
+### [Diagrama](https://lucid.app/lucidchart/invitations/accept/inv_4f33fa50-7961-4278-bc6a-234516e54708?viewport_loc=-762%2C-147%2C3216%2C1325%2C0_0)
 
 ![Diagrama](img/Diagnostico_Macowins.png)
 
